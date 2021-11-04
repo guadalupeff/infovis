@@ -1,1 +1,14 @@
-Probando txt
+Visual encoding 
+stacked graph
+stream graphs
+technique for increasing the data density
+stem-and-leaf plot
+quantile-quantile (or Q-Q) plots
+Multivariate data
+scatter plot matrix 
+Brushing-and-linking
+Parallel coordinates (||-coord)
+multi-scale inferences
+Adjacency diagrams 
+circle-packing layouts 
+graph distance
