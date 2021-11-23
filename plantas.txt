@@ -1,0 +1,316 @@
+ID	Planta	Fecha	Riego	Nombre t√©cnico	Origen	Ubicacion
+1	Jazmin del cielo	11/4/21	No	Plumbago auriculata	√Åfrica 	Exterior
+1	Jazmin del cielo	11/5/21	No			
+1	Jazmin del cielo	11/6/21	Si			
+1	Jazmin del cielo	11/7/21	No			
+1	Jazmin del cielo	11/8/21	No			
+1	Jazmin del cielo	11/9/21	Si			
+1	Jazmin del cielo	11/10/21	No			
+1	Jazmin del cielo	11/11/21	No			
+1	Jazmin del cielo	11/12/21	No			
+1	Jazmin del cielo	11/13/21	Si			
+1	Jazmin del cielo	11/14/21	No			
+1	Jazmin del cielo	11/15/21	No			
+1	Jazmin del cielo	11/16/21	No			
+1	Jazmin del cielo	11/17/21	Si			
+1	Jazmin del cielo	11/18/21	No			
+1	Jazmin del cielo	11/19/21	No			
+1	Jazmin del cielo	11/20/21	Si			
+1	Jazmin del cielo	11/21/21	No			
+1	Jazmin del cielo	11/22/21	Si			
+1	Jazmin del cielo	11/23/21	No			
+1	Jazmin del cielo	11/24/21	Si			
+2	Jazmin de leche	11/4/21	No	Trachelospermum jasminoides	Asia	Exterior
+2	Jazmin de leche	11/5/21	No			
+2	Jazmin de leche	11/6/21	Si			
+2	Jazmin de leche	11/7/21	No			
+2	Jazmin de leche	11/8/21	No			
+2	Jazmin de leche	11/9/21	Si			
+2	Jazmin de leche	11/10/21	No			
+2	Jazmin de leche	11/11/21	No			
+2	Jazmin de leche	11/12/21	No			
+2	Jazmin de leche	11/13/21	Si			
+2	Jazmin de leche	11/14/21	No			
+2	Jazmin de leche	11/15/21	No			
+2	Jazmin de leche	11/16/21	No			
+2	Jazmin de leche	11/17/21	Si			
+2	Jazmin de leche	11/18/21	No			
+2	Jazmin de leche	11/19/21	No			
+2	Jazmin de leche	11/20/21	Si			
+2	Jazmin de leche	11/21/21	No			
+2	Jazmin de leche	11/22/21	Si			
+2	Jazmin de leche	11/23/21	No			
+2	Jazmin de leche	11/24/21	No			
+3	Santa Riita	11/4/21	No	Bougainvillea glabra	Brasil	Exterior
+3	Santa Riita	11/5/21	No			
+3	Santa Riita	11/6/21	Si			
+3	Santa Riita	11/7/21	No			
+3	Santa Riita	11/8/21	No			
+3	Santa Riita	11/9/21	Si			
+3	Santa Riita	11/10/21	No			
+3	Santa Riita	11/11/21	No			
+3	Santa Riita	11/12/21	No			
+3	Santa Riita	11/13/21	Si			
+3	Santa Riita	11/14/21	No			
+3	Santa Riita	11/15/21	No			
+3	Santa Riita	11/16/21	No			
+3	Santa Riita	11/17/21	Si			
+3	Santa Riita	11/18/21	No			
+3	Santa Riita	11/19/21	No			
+3	Santa Riita	11/20/21	Si			
+3	Santa Riita	11/21/21	No			
+3	Santa Riita	11/22/21	Si			
+3	Santa Riita	11/23/21	No			
+3	Santa Riita	11/24/21	No			
+4	Laurel	11/4/21	No	Nerium oleander	Mediterr√°neo	Exterior
+4	Laurel	11/5/21	No			
+4	Laurel	11/6/21	Si			
+4	Laurel	11/7/21	No			
+4	Laurel	11/8/21	No			
+4	Laurel	11/9/21	Si			
+4	Laurel	11/10/21	No			
+4	Laurel	11/11/21	No			
+4	Laurel	11/12/21	No			
+4	Laurel	11/13/21	Si			
+4	Laurel	11/14/21	No			
+4	Laurel	11/15/21	No			
+4	Laurel	11/16/21	No			
+4	Laurel	11/17/21	Si			
+4	Laurel	11/18/21	No			
+4	Laurel	11/19/21	No			
+4	Laurel	11/20/21	Si			
+4	Laurel	11/21/21	No			
+4	Laurel	11/22/21	Si			
+4	Laurel	11/23/21	No			
+4	Laurel	11/24/21	No			
+5	Purpurea	11/4/21	Si	Tradescantia Pallida	Centroam√©rica	Exterior
+5	Purpurea	11/5/21	No			
+5	Purpurea	11/6/21	No			
+5	Purpurea	11/7/21	Si			
+5	Purpurea	11/8/21	No			
+5	Purpurea	11/9/21	No			
+5	Purpurea	11/10/21	No			
+5	Purpurea	11/11/21	No			
+5	Purpurea	11/12/21	No			
+5	Purpurea	11/13/21	Si			
+5	Purpurea	11/14/21	No			
+5	Purpurea	11/15/21	No			
+5	Purpurea	11/16/21	No			
+5	Purpurea	11/17/21	Si			
+5	Purpurea	11/18/21	No			
+5	Purpurea	11/19/21	No			
+5	Purpurea	11/20/21	Si			
+5	Purpurea	11/21/21	No			
+5	Purpurea	11/22/21	No			
+5	Purpurea	11/23/21	No			
+5	Purpurea	11/24/21	No			
+6	Sansevieria	11/4/21	No	Sansevieria Hahnii	√Åfrica	Exterior
+6	Sansevieria	11/5/21	No			
+6	Sansevieria	11/6/21	No			
+6	Sansevieria	11/7/21	Si			
+6	Sansevieria	11/8/21	No			
+6	Sansevieria	11/9/21	No			
+6	Sansevieria	11/10/21	No			
+6	Sansevieria	11/11/21	No			
+6	Sansevieria	11/12/21	No			
+6	Sansevieria	11/13/21	No			
+6	Sansevieria	11/14/21	Si			
+6	Sansevieria	11/15/21	No			
+6	Sansevieria	11/16/21	No			
+6	Sansevieria	11/17/21	No			
+6	Sansevieria	11/18/21	No			
+6	Sansevieria	11/19/21	No			
+6	Sansevieria	11/20/21	Si			
+6	Sansevieria	11/21/21	No			
+6	Sansevieria	11/22/21	No			
+6	Sansevieria	11/23/21	No			
+6	Sansevieria	11/24/21	No			
+7	Dieffenbachia	11/4/21	No	Dieffenbachia	Centroam√©rica	Interior
+7	Dieffenbachia	11/5/21	No			
+7	Dieffenbachia	11/6/21	No			
+7	Dieffenbachia	11/7/21	Si			
+7	Dieffenbachia	11/8/21	No			
+7	Dieffenbachia	11/9/21	No			
+7	Dieffenbachia	11/10/21	No			
+7	Dieffenbachia	11/11/21	No			
+7	Dieffenbachia	11/12/21	No			
+7	Dieffenbachia	11/13/21	Si			
+7	Dieffenbachia	11/14/21	No			
+7	Dieffenbachia	11/15/21	No			
+7	Dieffenbachia	11/16/21	No			
+7	Dieffenbachia	11/17/21	No			
+7	Dieffenbachia	11/18/21	No			
+7	Dieffenbachia	11/19/21	Si			
+7	Dieffenbachia	11/20/21	No			
+7	Dieffenbachia	11/21/21	No			
+7	Dieffenbachia	11/22/21	No			
+7	Dieffenbachia	11/23/21	No			
+7	Dieffenbachia	11/24/21	Si			
+8	Costilla de Adan	11/4/21	No	Monstera Deliciosa	Centroam√©rica	Interior
+8	Costilla de Adan	11/5/21	No			
+8	Costilla de Adan	11/6/21	No			
+8	Costilla de Adan	11/7/21	Si			
+8	Costilla de Adan	11/8/21	No			
+8	Costilla de Adan	11/9/21	No			
+8	Costilla de Adan	11/10/21	No			
+8	Costilla de Adan	11/11/21	No			
+8	Costilla de Adan	11/12/21	No			
+8	Costilla de Adan	11/13/21	Si			
+8	Costilla de Adan	11/14/21	No			
+8	Costilla de Adan	11/15/21	No			
+8	Costilla de Adan	11/16/21	No			
+8	Costilla de Adan	11/17/21	No			
+8	Costilla de Adan	11/18/21	No			
+8	Costilla de Adan	11/19/21	Si			
+8	Costilla de Adan	11/20/21	No			
+8	Costilla de Adan	11/21/21	No			
+8	Costilla de Adan	11/22/21	No			
+8	Costilla de Adan	11/23/21	No			
+8	Costilla de Adan	11/24/21	Si			
+9	Spathiphyllum	11/4/21	No	Spathiphyllum wallisii	Centroam√©rica	Interior
+9	Spathiphyllum	11/5/21	No			
+9	Spathiphyllum	11/6/21	No			
+9	Spathiphyllum	11/7/21	Si			
+9	Spathiphyllum	11/8/21	No			
+9	Spathiphyllum	11/9/21	No			
+9	Spathiphyllum	11/10/21	No			
+9	Spathiphyllum	11/11/21	No			
+9	Spathiphyllum	11/12/21	No			
+9	Spathiphyllum	11/13/21	Si			
+9	Spathiphyllum	11/14/21	No			
+9	Spathiphyllum	11/15/21	No			
+9	Spathiphyllum	11/16/21	No			
+9	Spathiphyllum	11/17/21	No			
+9	Spathiphyllum	11/18/21	No			
+9	Spathiphyllum	11/19/21	Si			
+9	Spathiphyllum	11/20/21	No			
+9	Spathiphyllum	11/21/21	No			
+9	Spathiphyllum	11/22/21	No			
+9	Spathiphyllum	11/23/21	No			
+9	Spathiphyllum	11/24/21	Si			
+10	Pothus	11/4/21	No	Epipremnum aureum	Ocean√≠a	Interior
+10	Pothus	11/5/21	No			
+10	Pothus	11/6/21	No			
+10	Pothus	11/7/21	No			
+10	Pothus	11/8/21	Si			
+10	Pothus	11/9/21	No			
+10	Pothus	11/10/21	No			
+10	Pothus	11/11/21	No			
+10	Pothus	11/12/21	No			
+10	Pothus	11/13/21	No			
+10	Pothus	11/14/21	No			
+10	Pothus	11/15/21	No			
+10	Pothus	11/16/21	No			
+10	Pothus	11/17/21	No			
+10	Pothus	11/18/21	No			
+10	Pothus	11/19/21	Si			
+10	Pothus	11/20/21	No			
+10	Pothus	11/21/21	No			
+10	Pothus	11/22/21	No			
+10	Pothus	11/23/21	No			
+10	Pothus	11/24/21	No			
+11	Cactus Tuna	11/4/21	No	Opuntia ficus-indica	Centroam√©rica	Exterior
+11	Cactus Tuna	11/5/21	No			
+11	Cactus Tuna	11/6/21	No			
+11	Cactus Tuna	11/7/21	Si			
+11	Cactus Tuna	11/8/21	No			
+11	Cactus Tuna	11/9/21	No			
+11	Cactus Tuna	11/10/21	No			
+11	Cactus Tuna	11/11/21	No			
+11	Cactus Tuna	11/12/21	No			
+11	Cactus Tuna	11/13/21	No			
+11	Cactus Tuna	11/14/21	No			
+11	Cactus Tuna	11/15/21	No			
+11	Cactus Tuna	11/16/21	No			
+11	Cactus Tuna	11/17/21	No			
+11	Cactus Tuna	11/18/21	No			
+11	Cactus Tuna	11/19/21	No			
+11	Cactus Tuna	11/20/21	Si			
+11	Cactus Tuna	11/21/21	No			
+11	Cactus Tuna	11/22/21	No			
+11	Cactus Tuna	11/23/21	No			
+11	Cactus Tuna	11/24/21	No			
+12	Flor de Nacar	11/4/21	No	Hoya carnosa	Asia	Exterior
+12	Flor de Nacar	11/5/21	No			
+12	Flor de Nacar	11/6/21	No			
+12	Flor de Nacar	11/7/21	Si			
+12	Flor de Nacar	11/8/21	No			
+12	Flor de Nacar	11/9/21	No			
+12	Flor de Nacar	11/10/21	No			
+12	Flor de Nacar	11/11/21	No			
+12	Flor de Nacar	11/12/21	No			
+12	Flor de Nacar	11/13/21	Si			
+12	Flor de Nacar	11/14/21	No			
+12	Flor de Nacar	11/15/21	No			
+12	Flor de Nacar	11/16/21	No			
+12	Flor de Nacar	11/17/21	Si			
+12	Flor de Nacar	11/18/21	No			
+12	Flor de Nacar	11/19/21	No			
+12	Flor de Nacar	11/20/21	Si			
+12	Flor de Nacar	11/21/21	No			
+12	Flor de Nacar	11/22/21	Si			
+12	Flor de Nacar	11/23/21	No			
+12	Flor de Nacar	11/24/21	No			
+13	Palta	11/4/21	No	Persea americana	Centroam√©rica	Exterior
+13	Palta	11/5/21	No			
+13	Palta	11/6/21	Si			
+13	Palta	11/7/21	No			
+13	Palta	11/8/21	No			
+13	Palta	11/9/21	No			
+13	Palta	11/10/21	No			
+13	Palta	11/11/21	No			
+13	Palta	11/12/21	No			
+13	Palta	11/13/21	Si			
+13	Palta	11/14/21	No			
+13	Palta	11/15/21	No			
+13	Palta	11/16/21	No			
+13	Palta	11/17/21	Si			
+13	Palta	11/18/21	No			
+13	Palta	11/19/21	No			
+13	Palta	11/20/21	Si			
+13	Palta	11/21/21	No			
+13	Palta	11/22/21	Si			
+13	Palta	11/23/21	No			
+13	Palta	11/24/21	No			
+14	Alegr√≠a del hogar	11/4/21	Si	Impatiens walleriana	√Åfrica	Exterior
+14	Alegr√≠a del hogar	11/5/21	No			
+14	Alegr√≠a del hogar	11/6/21	No			
+14	Alegr√≠a del hogar	11/7/21	Si			
+14	Alegr√≠a del hogar	11/8/21	No			
+14	Alegr√≠a del hogar	11/9/21	No			
+14	Alegr√≠a del hogar	11/10/21	No			
+14	Alegr√≠a del hogar	11/11/21	No			
+14	Alegr√≠a del hogar	11/12/21	No			
+14	Alegr√≠a del hogar	11/13/21	Si			
+14	Alegr√≠a del hogar	11/14/21	No			
+14	Alegr√≠a del hogar	11/15/21	No			
+14	Alegr√≠a del hogar	11/16/21	No			
+14	Alegr√≠a del hogar	11/17/21	Si			
+14	Alegr√≠a del hogar	11/18/21	No			
+14	Alegr√≠a del hogar	11/19/21	No			
+14	Alegr√≠a del hogar	11/20/21	Si			
+14	Alegr√≠a del hogar	11/21/21	No			
+14	Alegr√≠a del hogar	11/22/21	Si			
+14	Alegr√≠a del hogar	11/23/21	No			
+14	Alegr√≠a del hogar	11/24/21	No			
+15	Palo de Agua	11/4/21	No	Dracaena Warnecki	√Åfrica	Exterior
+15	Palo de Agua	11/5/21	No			
+15	Palo de Agua	11/6/21	No			
+15	Palo de Agua	11/7/21	Si			
+15	Palo de Agua	11/8/21	No			
+15	Palo de Agua	11/9/21	No			
+15	Palo de Agua	11/10/21	No			
+15	Palo de Agua	11/11/21	No			
+15	Palo de Agua	11/12/21	No			
+15	Palo de Agua	11/13/21	Si			
+15	Palo de Agua	11/14/21	No			
+15	Palo de Agua	11/15/21	No			
+15	Palo de Agua	11/16/21	No			
+15	Palo de Agua	11/17/21	No			
+15	Palo de Agua	11/18/21	No			
+15	Palo de Agua	11/19/21	No			
+15	Palo de Agua	11/20/21	Si			
+15	Palo de Agua	11/21/21	No			
+15	Palo de Agua	11/22/21	No			
+15	Palo de Agua	11/23/21	No			
+15	Palo de Agua	11/24/21	No			
